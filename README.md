@@ -1,5 +1,5 @@
-# Homwork
-First repository
+# Roza Hovhannisyan
+It's my first repository
 
 
 
